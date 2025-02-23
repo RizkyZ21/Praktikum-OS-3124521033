@@ -3,14 +3,23 @@
 Langkah awal dalam menginstall OS Linux adalah menyiapkan iso imagenya, kemudian siapkan VB, bisa menggunakan VirtualBox, VMWare Player, dsb. Disini saya akan menggunakan VirtualBox
 Langkah-langkah:
 1. Buka VirtualBox
+
 2. Klik 'New'
+
 3. Masukkan nama dari projectnya, lalu tentukan di mana virtual os akan disimpan, kemudian pilih iso image mana yang telah didownload
+
 4. Centang 'Unattended Installation,' Klik 'Next'
+
 5. Atur ukuran dari memory dan jumlah CPU yang akan digunakan (4096mb/2)
+
 6. Atur ukuran dari penyimpanan yang akan digunakan (25GB)
+
 7. Pada bagian 'Summary,' terdapat informasi spesifikasi yang telah ditentukan. Pastikan semua benar.
+
 8. Klik 'Finish'
+
 9. Pilih OS yang baru saja dibuat atau yang akan digunakan. Klik 'Start'
+
 10. Lakukan penginstallan sesuai standar distro Linux masing-masing.
 
 **2. Perbandingan Debian 11 dan Debian 12:**
