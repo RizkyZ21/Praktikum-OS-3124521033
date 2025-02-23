@@ -24,7 +24,7 @@ Langkah-langkah:
 
 **3. Cek Environment menggunakan CPU-X:**
 
-1. Buka terminal yang ada di linux kemudian ketikan perintah sudo apt install cpu-x
+1. Buka terminal yang ada di linux kemudian ketikan perintah ``` sudo apt install cpu-x ```
 2. Setelah terinstall buka cpu-x nya
 3. Setelah terbuka akan muncul informasi tentang spesifikasi yang digunakan
 
