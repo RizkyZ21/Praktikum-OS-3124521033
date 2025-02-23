@@ -2,6 +2,7 @@
 
 Langkah awal dalam menginstall OS Linux adalah menyiapkan iso imagenya, kemudian siapkan VB, bisa menggunakan VirtualBox, VMWare Player, dsb. Disini saya akan menggunakan VirtualBox
 Langkah-langkah:
+
 1. Buka VirtualBox
 
 2. Klik 'New'
